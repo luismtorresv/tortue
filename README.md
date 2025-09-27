@@ -3,7 +3,10 @@
 <div align="center">
     <i>« Ne craignez point, Monsieur, la tortue »</i>
     <br>
-    <i>—Gottfried Leibniz</i>
+    <i>—Gottfried Leibniz, in
+    <a href="https://www.borges.pitt.edu/i/ne-craignez-point-monsieur-la-tortue-sir-dont-fear-tortoise">
+    a letter
+    </a> to Simon Foucher</i>
 </div>
 <br>
 
